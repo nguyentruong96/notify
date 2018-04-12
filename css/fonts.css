@@ -1,0 +1,22 @@
+/*Pacifico*/
+@font-face {
+	font-family: Pacifico;
+	src: url(../fonts/Pacifico/Pacifico.ttf);
+}
+/*Raleway*/
+@font-face {
+	font-family: Raleway;
+	src: url(../fonts/Raleway/Raleway-SemiBold.ttf);
+	font-weight: 600;	
+}
+/*Helvetica Neue*/
+@font-face {
+	font-family: "Helvetica Neue";
+	src: url(../fonts/Helvetica/helveticaneue.ttf);
+}
+
+@font-face {
+	font-family: "Helvetica Neue";
+   	src:url(../fonts/Helvetica/helveticaneuemedium.ttf);
+	font-weight: 500;
+}
